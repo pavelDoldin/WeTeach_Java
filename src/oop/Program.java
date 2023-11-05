@@ -14,5 +14,10 @@ public class Program {
 
         Inheritance inheritance = new Inheritance();
         System.out.println(inheritance.decodingInheritance);
+
+        System.out.println("----------------------------------------------------------------------------------");
+
+        Polymorphis polymorphis = new Polymorphis();
+        System.out.println(polymorphis.decodingPolymorphis);
     }
 }
