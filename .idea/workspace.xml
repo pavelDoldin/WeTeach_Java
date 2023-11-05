@@ -4,21 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d148d7a5-9527-4115-8355-71e793922ffa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeTeach_OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Oop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Polymorphis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/inheritance" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/oop.txt" afterDir="false" />
+    <list default="true" id="d148d7a5-9527-4115-8355-71e793922ffa" name="Changes" comment="add_oop_txt">
+      <change afterPath="$PROJECT_DIR$/src/oop/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Oop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Oop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/oop.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +47,26 @@
       <recent name="C:\Users\Pavel\IdeaProjects\WeTeach_OOP\src\oop" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.Program" />
+      <module name="WeTeach_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,6 +76,29 @@
       <option name="presentableId" value="Default" />
       <updated>1698659207514</updated>
     </task>
+    <task id="LOCAL-00001" summary="add_oop_txt">
+      <created>1698669940470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698669940470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add_oop_txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add_oop_txt" />
   </component>
 </project>
