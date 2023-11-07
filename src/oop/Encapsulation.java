@@ -1,7 +1,7 @@
 package oop;
 
 public class Encapsulation {
-    String decodingEncapsulation = "Inheritance (Инкапсуляция) это - механизм языка програмирования.\n" +
+    String decodingEncapsulation = "Encapsulation (Инкапсуляция) это - механизм языка програмирования.\n" +
             "            Котороя позволяет связывать данные и методы в единный обект. \n" +
             "            Позволяет скрывать детали реализации от конечного пользователя или от\n" +
             "            конечного модуля (main).";
