@@ -10,11 +10,11 @@ import java.util.Random;
 public class Generate {
 
 
-
+    private static Random random = new Random();
 
     public static Generate generateDecoding(){
 
-        Random random = new Random();
+
 
 
         Abstraction abstraction = new Abstraction();
