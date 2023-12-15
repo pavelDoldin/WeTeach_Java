@@ -36,19 +36,19 @@ public class Generate {
 
 
         if (random.nextInt(arrayList.size()) == 0){
-            System.out.println(new Abstraction().decodingAbstraction);
+            System.out.println(new Abstraction().decodingAbstraction);  //
         }
         else if (random.nextInt(arrayList.size()) == 1){
-            System.out.println(new Encapsulation().decodingEncapsulation);
+            System.out.println(new Encapsulation().decodingEncapsulation);//
         }
         else if (random.nextInt(arrayList.size()) == 2){
-            System.out.println(new Inheritance().decodingInheritance);
+            System.out.println(new Inheritance().decodingInheritance);    //
         }
         else if (random.nextInt(arrayList.size()) == 3){
-            System.out.println(new Oop().decodingOop);
+            System.out.println(new Oop().decodingOop);                   //
         }
         else {
-            System.out.println(new Polymorphis().decodingPolymorphis);
+            System.out.println(new Polymorphis().decodingPolymorphis);  //
         }
 
         return null;
