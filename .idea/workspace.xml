@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d148d7a5-9527-4115-8355-71e793922ffa" name="Changes" comment="add_oop_txt">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsJava/CollectionList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsJava/Generate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsJava/Program2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsJava/WhatCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/Program3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/WhotException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/TheLargestDivisor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeTeach_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/WeTeach_Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/Generate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Generate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Program1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,23 +45,10 @@
       <recent name="C:\Users\Pavel\IdeaProjects\WeTeach_OOP\src\oop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.task_1">
+  <component name="RunManager" selected="Application.TheLargestDivisor">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="WeTeach_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Program1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.Program1" />
-      <module name="WeTeach_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,8 +79,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.task_1" />
+    <configuration name="TheLargestDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.TheLargestDivisor" />
+      <module name="WeTeach_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.TwoSum" />
       <module name="WeTeach_Java" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.task_1" />
+        <item itemvalue="Application.TheLargestDivisor" />
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Program3" />
         <item itemvalue="Application.Program2" />
-        <item itemvalue="Application.Program1" />
       </list>
     </recent_temporary>
   </component>
