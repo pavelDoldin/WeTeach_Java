@@ -28,6 +28,7 @@ public class Generate implements GenerateDecoding {
         Polymorphis polymorphis = new Polymorphis();
         WhatCollection whatCollection = new WhatCollection();
         WhotException whotException = new WhotException();
+        SOLID solid = new SOLID();
 
         List<String> list = new ArrayList<>();
         list.add(abstraction.decodingAbstraction);
@@ -40,6 +41,7 @@ public class Generate implements GenerateDecoding {
         list.add(polymorphis.decodingPolymorphis);
         list.add(whatCollection.decodingCollection);
         list.add(whotException.decodingException);
+        list.add(solid.decodingSOLID);
 
 
 
@@ -69,8 +71,9 @@ public class Generate implements GenerateDecoding {
         }
         else if ( random.nextInt(list.size()) == 8 ) {
             System.out.println(whatCollection.decodingCollection);
-        }
-        else {
+        } else if (random.nextInt(list.size()) == 9) {
+            System.out.println(solid.decodingSOLID);
+        } else {
             System.out.println(whotException.decodingException);
         }
         return null;
