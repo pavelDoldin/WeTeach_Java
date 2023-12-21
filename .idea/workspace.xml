@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d148d7a5-9527-4115-8355-71e793922ffa" name="Changes" comment="add_oop_txt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaCore/SOLID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaCore/SOLID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/Bubble.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
