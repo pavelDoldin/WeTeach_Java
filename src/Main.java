@@ -15,7 +15,7 @@ public class Main {
 
 
         Generate generate = new Generate();
-        System.out.println(generate);
+        generate.gamesJavaCore();
 
     }
 }

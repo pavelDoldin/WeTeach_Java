@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d148d7a5-9527-4115-8355-71e793922ffa" name="Changes" comment="add_oop_txt">
+      <change afterPath="$PROJECT_DIR$/src/algorithms/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/Bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaCore/Oop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaCore/Oop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,7 @@
       <recent name="C:\Users\Pavel\IdeaProjects\WeTeach_OOP\src\oop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bubble">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.Bubble" />
       <module name="WeTeach_Java" />
@@ -108,9 +111,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Bubble" />
         <item itemvalue="Application.Program1" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Program3" />
       </list>
