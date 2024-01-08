@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d148d7a5-9527-4115-8355-71e793922ffa" name="Changes" comment="add_oop_txt">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringTask/task_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaCore/Oop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaCore/Oop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
       <recent name="C:\Users\Pavel\IdeaProjects\WeTeach_OOP\src\oop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.task_1">
     <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.Bubble" />
       <module name="WeTeach_Java" />
@@ -96,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.Program3" />
+    <configuration name="task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTask.task_1" />
       <module name="WeTeach_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaCore.*" />
+          <option name="PATTERN" value="StringTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task_1" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Bubble" />
         <item itemvalue="Application.Program1" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Program3" />
       </list>
     </recent_temporary>
   </component>
