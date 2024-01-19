@@ -6,11 +6,10 @@ public class Bubble {
 
     public static void main(String[] args) {
 
-        int[] nums = new int[]{5,2,4,6,1,3,2,6};
 
-        bubbleSort2(nums);
 
     }
+
 // Алгоритм пузырька сложность o(n^2) так как присутсвует вложенный цикл
     static void bubbleSort(int[] nums){
 

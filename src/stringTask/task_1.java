@@ -27,16 +27,14 @@ public class task_1 {
             System.out.println("Замена бесполезна");
         }
 
-
-
     }
 
-    public static void ex0() {
+    public static void ex0(){
         // Удалить пробелы в начале и конце, перевести в нижний регистор, вернуть результат
         // Надо учить Java и наглийский //
 
-        System.out.println(" Надо учить Java и наглийский ");
-        String str = " Надо учить Java и наглийский ";
+        System.out.println(" Надо учить Java и английский ");
+        String str = " Надо учить Java и английский ";
         System.out.println(str.trim().toLowerCase());
     }
 
